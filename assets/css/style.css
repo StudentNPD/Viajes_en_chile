@@ -1,7 +1,14 @@
-footer{
-    background-color: cadetblue;
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: black;
 }
 
-body{
-    background-color: gray;
+h1{
+    color: white;
+    font-weight: lighter;
+    font-size: x-large;
+}
+
+p{
+    color: white;
 }
